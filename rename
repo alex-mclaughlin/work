@@ -1,0 +1,27 @@
+import os
+
+
+for aFile in aDir:
+    os.rename(aFile, f[:index("_")])
+
+import os
+def dTask():
+    #Get a file name list
+    dir = 'C:\AMclaughlin\rename'
+    file_list = os.listdir(dir)
+    #Change the extensions
+    for file_name in file_list:
+        #entry_pos = 0;
+        #Filter the file name first for '.'
+        #for position in range(0, len(file_name)):
+            #if file_name[position] == '.':
+                #break
+        #new_file_name = file_name[0:position]
+        #Filtering done !
+        #Using the name filtered, add extension to that name
+        #new_file_name = new_file_name + '.rar'
+        #rename the entry in the file list, using new file name
+        #print 'Expected change from: ', file_list[entry_pos]
+        #print 'into File name: ', new_file_name
+        #os.rename( os.path.join(dir, file_list[entry_pos]), os.path.join(dir,new_file_name))
+        #++entry_pos
