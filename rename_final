@@ -1,0 +1,13 @@
+import os
+def pTask():
+    #Get a file name list
+    #os.getcwd()
+    dir = r'C:/AMclaughlin/rename/'
+    file_list = os.listdir(dir)
+    #Change the filename
+    for file_name in file_list:
+        print file_list
+        newFile = file_name.split('_')[0]
+        os.rename(dir + file_name, dir + newFile)
+    
+pTask()
