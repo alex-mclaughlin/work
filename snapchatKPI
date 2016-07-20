@@ -1,0 +1,79 @@
+JSON Response for Snapchat KPIs
+
+{
+	'total_screenshots': '1',
+	'total_views': '4686',
+	'story_id': '168164',
+	'site': 'mydomaine',
+	'image_url': '"https://s3-eu-west-1.amazonaws.com/stories.snaplytics.io/flRvfEfccXuu-73J8i2fZQQ/c002a26a-249b-47b7-9472-0021ac5ebce9.jpg"',
+	'channel': 'snapchat',
+	'timestamp': '"2016-07-18T22:57:13.270Z"',
+	'date_pulled': '2016-07-19 21:49:39',
+	'id': 'mydomaine_snapchat_2016-07-19',
+	'opens': '1078'
+} {
+	'views': '1078',
+	'url': 'null',
+	'story_id': '168164',
+	'snap_id_cat': '408291_mydomaine_snapchat_2016-07-19',
+	'retention_rate': 'null',
+	'tpr': '88.3008356545961',
+	'snap_date': '"2016-07-18T22:57:13.270Z"',
+	'screenshot_count': '0',
+	'date_pulled': '2016-07-19 21:49:40',
+	'snap_id': '408291',
+	'snap_type': '"image"',
+	'channel': 'snapchat'
+} {
+	'views': '951',
+	'url': 'null',
+	'story_id': '168164',
+	'snap_id_cat': '408292_mydomaine_snapchat_2016-07-19',
+	'retention_rate': '88.21892393320965',
+	'tpr': '91.7941585535466',
+	'snap_date': '"2016-07-18T22:57:31.911Z"',
+	'screenshot_count': '0',
+	'date_pulled': '2016-07-19 21:49:40',
+	'snap_id': '408292',
+	'snap_type': '"image"',
+	'channel': 'snapchat'
+} {
+	'views': '902',
+	'url': 'null',
+	'story_id': '168164',
+	'snap_id_cat': '408293_mydomaine_snapchat_2016-07-19',
+	'retention_rate': '94.84752891692955',
+	'tpr': '94.8753462603878',
+	'snap_date': '"2016-07-18T23:04:05.801Z"',
+	'screenshot_count': '0',
+	'date_pulled': '2016-07-19 21:49:40',
+	'snap_id': '408293',
+	'snap_type': '"image"',
+	'channel': 'snapchat'
+} {
+	'views': '878',
+	'url': '"https://s3-eu-west-1.amazonaws.com/stories.snaplytics.io/f8LM7UHm-087X3ZOXHmYujg/f1930692-47e5-4ced-b6b7-3c54052c3d5e.mp4"',
+	'story_id': '168164',
+	'snap_id_cat': '408294_mydomaine_snapchat_2016-07-19',
+	'retention_rate': '97.33924611973393',
+	'tpr': '96.5846994535519',
+	'snap_date': '"2016-07-18T23:05:03.710Z"',
+	'screenshot_count': '0',
+	'date_pulled': '2016-07-19 21:49:40',
+	'snap_id': '408294',
+	'snap_type': '"video"',
+	'channel': 'snapchat'
+} {
+	'views': '877',
+	'url': 'null',
+	'story_id': '168164',
+	'snap_id_cat': '408295_mydomaine_snapchat_2016-07-19',
+	'retention_rate': '99.8861047835991',
+	'tpr': 'null',
+	'snap_date': '"2016-07-18T23:05:35.007Z"',
+	'screenshot_count': '1',
+	'date_pulled': '2016-07-19 21:49:40',
+	'snap_id': '408295',
+	'snap_type': '"image"',
+	'channel': 'snapchat'
+}
